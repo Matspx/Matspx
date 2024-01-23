@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./2.jpg" width="40%" >
+    <img alt="imagem desenvolvida por Bing Image Creator" src="./2.jpg" width="40%" >
 </p>
 
 <h3 align="leftr"> Olá! </h3>
