@@ -12,7 +12,7 @@
 <hr>
 
 <p> Habilidades </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 
 <br>
 
