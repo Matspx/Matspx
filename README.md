@@ -11,9 +11,17 @@
 
 <hr>
 
-<p> Habilidades </p>
- <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<h3> Habilidades </h3>
+ <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+<hr>
 
-<br>
+<h3>Contato</h3>
+<a href="mailto:mat.pxo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+<a href="https://www.linkedin.com/in/matheus-da-paix%C3%A3o-2992b22b0/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
 
 
