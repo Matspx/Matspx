@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./2.jpg" width="100%" >
+    <img src="./2.jpg" width="40%" >
 </p>
 
 <h3 align="leftr"> Olá! </h3>
