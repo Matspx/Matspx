@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Matspx/Matspx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <img alt="projeto DevLinks" src="./1.jpg width="100%" >
+</p>
 
-Here are some ideas to get you started:
+<h3 align="leftr"> Olá! </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+Me chamo Matheus, um desenvolvedor Web Jr na jornada do universo da Tecnologia
+
+</p>
+
+<p> Habilidades </p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+<br>
+
+
