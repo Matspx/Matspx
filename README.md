@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img alt="projeto DevLinks" src="./1.jpg width="100%" >
+    <img alt="projeto DevLinks" src="./2.jpg width="100%" >
 </p>
 
 <h3 align="leftr"> Olá! </h3>
